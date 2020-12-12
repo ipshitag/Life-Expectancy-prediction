@@ -332,7 +332,7 @@ and the insurance company.
     
     **Contributors**
 
-    ThomasKutty Reji
+    ThomasKutty Reji [Github](https://github.com/thomakuttyreji123)
 
 
     Ipshita Ghosh
