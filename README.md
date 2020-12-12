@@ -52,14 +52,12 @@ b.  Outliers
 Boxplots of all the columns,
 
 ![A picture containing shoji, building Description automatically
-generated](https://i.ibb.co/F6KSWkb/download.png){width="6.95in"
-height="8.666666666666666in"}
+generated](https://i.ibb.co/F6KSWkb/download.png)
 
 
 HeatMap between different values,
 
-![](https://i.ibb.co/g3xS1mb/image.png){width="6.613194444444445in"
-height="7.208333333333333in"}
+![](https://i.ibb.co/g3xS1mb/image.png)
 
 It can be observed that there are a few very high positive correlation,
 like \'Expenditure\' and \'GDP\'.
@@ -69,19 +67,15 @@ resources\' are very high.
 
 Important Distribution Plots:
 
-![](https://i.ibb.co/sqckptT/image.png){width="4.438118985126859in"
-height="2.9274923447069114in"}
+![](https://i.ibb.co/sqckptT/image.png)
 
-![](https://i.ibb.co/b1XpPRV/image.png){width="4.104166666666667in"
-height="3.051388888888889in"}
+![](https://i.ibb.co/b1XpPRV/image.png)
 
-![](https://i.ibb.co/0BfnPm3/image.png){width="4.268055555555556in"
-height="2.7395833333333335in"}
+![](https://i.ibb.co/0BfnPm3/image.png)
 
 PairPlot of the dataset:
 
-![](https://i.ibb.co/Cs9HBVn/download.png){width="6.268055555555556in"
-height="7.510416666666667in"}
+![](https://i.ibb.co/Cs9HBVn/download.png)
 
 The image can be seen at <https://ibb.co/BK6CLTg>
 
@@ -123,8 +117,7 @@ For the baseline model, the features chosen were,
 
 \'Income composition of resources\'
 
-![](https://i.ibb.co/9sm00wd/image.png){width="5.311111111111111in"
-height="3.6416666666666666in"}
+![](https://i.ibb.co/9sm00wd/image.png)
 
 **Model 2**
 
@@ -162,8 +155,7 @@ Adult Mortality\',
 
 \'Income composition of resources\'
 
-![](media/image10.png){width="4.962263779527559in"
-height="3.4024726596675414in"}
+![](https://i.ibb.co/gMdttW4/image.png)
 
 **Model 3**
 
@@ -187,8 +179,7 @@ The features used were
 
 \'Adult Mortality\'
 
-![](media/image11.png){width="5.311111111111111in"
-height="3.6416666666666666in"}
+![](https://i.ibb.co/qFSzLsV/image.png)
 
 **Model 4**
 
@@ -220,8 +211,7 @@ The features used were,
 
 \'Hepatitis B\'
 
-![](media/image12.png){width="5.311111111111111in"
-height="3.6416666666666666in"}
+![](https://i.ibb.co/FX0Vwpz/image.png)
 
 **Model 5**
 
@@ -249,8 +239,7 @@ Parameters used for the model are,
 
 \'Alcohol\'
 
-![](media/image13.png){width="5.311111111111111in"
-height="3.6416666666666666in"}
+![](https://i.ibb.co/d4fJZWG/image.png)
 
 **Model 6**
 
@@ -286,8 +275,7 @@ The parameters used were,
 
 \'Alcohol\'
 
-![](media/image14.png){width="5.311111111111111in"
-height="3.6416666666666666in"}
+![](https://i.ibb.co/wcCGLPP/image.png)
 
 **Summary:**
 
@@ -340,3 +328,8 @@ and the insurance company.
     Insurance companies can plan their packages based on the life
     expectancy of individuals. Different kinds of offers and packages
     can be given accordingly so that the person buys it.
+    
+    
+    **Contributors**
+    ThomasKutty Reji
+    Ipshita Ghosh
