@@ -299,7 +299,7 @@ The highest accuracy reached was 97.02% on test data.
 
     -Deploying the model will be a huge step, making interactions
     between the model and end-user easier. Additional data can also be
-    collected.
+    collected. Using AWS or other platforms to deploy the model will be useful.
 
 2.  Use of better algorithms
 
